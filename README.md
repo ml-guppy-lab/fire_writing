@@ -15,6 +15,9 @@ An interactive computer vision project that brings **magical fire effects** to y
 - Fire particles with gravity simulation, upward motion, and life cycles
 - Enhanced visual effects with yellow outlines and subtle texture lines
 
+<img width="828" height="794" alt="image" src="https://github.com/user-attachments/assets/1350fa3c-3892-4954-bab5-e1a9ed4453ca" />
+
+
 ### ❤️ Heart Gesture Magic
 - Form a heart shape with both hands to activate **special effects**
 - Two beautiful neon pink hearts appear, one following each palm
@@ -24,6 +27,9 @@ An interactive computer vision project that brings **magical fire effects** to y
 - White and purple particles continuously stream from the heart's perimeter
 - Hearts track their respective palms independently even when separated
 - Fire automatically stops when hearts are active
+
+<img width="744" height="794" alt="image" src="https://github.com/user-attachments/assets/1710ab27-0e4e-4a75-8051-8478ffc0a473" />
+
 
 ### 🎨 Advanced Visual Effects
 - Real-time hand tracking using MediaPipe's latest API
@@ -35,7 +41,7 @@ An interactive computer vision project that brings **magical fire effects** to y
 ## 🎥 Demo
 
 **Watch the full demo on Instagram:**  
-[@themlguppy](https://www.instagram.com/themlguppy)
+[@themlguppy](https://www.instagram.com/p/DVN2EO4EoE_/)
 
 *Experience the magic in action! See how the fire dances on palms and hearts respond to hand movements.*
 
